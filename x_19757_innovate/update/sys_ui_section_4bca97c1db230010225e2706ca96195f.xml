@@ -4,55 +4,69 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 05:08:06</sys_created_on>
-            <sys_id>57ca97c1db230010225e2706ca961967</sys_id>
+            <sys_created_on>2020-03-13 05:20:58</sys_created_on>
+            <sys_id>3fbd1745db230010225e2706ca9619c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_19757_innovate_innovate" sys_domain="global" view="Default view">4bca97c1db230010225e2706ca96195f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 05:08:06</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 05:08:06</sys_created_on>
-            <sys_id>5fca97c1db230010225e2706ca961967</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_19757_innovate_innovate" sys_domain="global" view="Default view">4bca97c1db230010225e2706ca96195f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 05:08:06</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 05:08:06</sys_created_on>
-            <sys_id>dfca97c1db230010225e2706ca961967</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_19757_innovate_innovate" sys_domain="global" view="Default view">4bca97c1db230010225e2706ca96195f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 05:08:06</sys_updated_on>
+            <sys_updated_on>2020-03-13 05:20:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>idea_type</element>
-            <position>3</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-13 05:08:06</sys_created_on>
-            <sys_id>53ca97c1db230010225e2706ca961968</sys_id>
+            <sys_created_on>2020-03-13 05:20:58</sys_created_on>
+            <sys_id>bfbd1745db230010225e2706ca9619c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_19757_innovate_innovate" sys_domain="global" view="Default view">4bca97c1db230010225e2706ca96195f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-13 05:08:06</sys_updated_on>
+            <sys_updated_on>2020-03-13 05:20:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-13 05:20:58</sys_created_on>
+            <sys_id>33bd1745db230010225e2706ca9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_19757_innovate_innovate" sys_domain="global" view="Default view">4bca97c1db230010225e2706ca96195f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-13 05:20:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-13 05:20:58</sys_created_on>
+            <sys_id>b3bd1745db230010225e2706ca9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_19757_innovate_innovate" sys_domain="global" view="Default view">4bca97c1db230010225e2706ca96195f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-13 05:20:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-13 05:20:58</sys_created_on>
+            <sys_id>37bd1745db230010225e2706ca9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_19757_innovate_innovate" sys_domain="global" view="Default view">4bca97c1db230010225e2706ca96195f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-13 05:20:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
